@@ -1,0 +1,31 @@
+{
+    "positions": {
+        "pos1": [
+            1141,
+            673
+        ],
+        "pos2": [
+            64,
+            294
+        ],
+        "pos3": [
+            32,
+            36
+        ],
+        "pos4": [
+            795,
+            553
+        ]
+    },
+    "timings": {
+        "wait_after_pos1": 8.0,
+        "wait_after_pos3": 3.0,
+        "wait_after_pos4": 5.0,
+        "click_interval": 0.3,
+        "detect_interval": 0.1
+    },
+    "template": {
+        "path": "./images/three yellow stars.png",
+        "threshold": 0.99
+    }
+}
